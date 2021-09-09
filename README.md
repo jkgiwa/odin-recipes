@@ -1,0 +1,1 @@
+This project involves creating a website of recipes using newly learnt html skills. The skills demonstrated are the use of: a basic html structure setup;  various elements, such as head, title, meta, body, headings, ordered and unordered lists, anchors and images using relative links; the alt attribute within each image element to improve user accessibility.
